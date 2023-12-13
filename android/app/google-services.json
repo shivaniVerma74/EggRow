@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271533998275",
+    "project_id": "eggrow-993ed",
+    "storage_bucket": "eggrow-993ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271533998275:android:414551a9b89a21db46a276",
+        "android_client_info": {
+          "package_name": "com.eggrow.main"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJzfiiSbV3AYHSrPWFXMy70tGtuD6lfSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
